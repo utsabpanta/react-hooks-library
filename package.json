@@ -2,6 +2,9 @@
   "name": "react-hooks-library",
   "version": "1.0.0",
   "description": "A collection of useful React hooks",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
   "dev": "vite",
   "build": "tsc && vite build",

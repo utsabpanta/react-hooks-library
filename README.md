@@ -4,8 +4,8 @@ A collection of custom React hooks designed to simplify common tasks in React ap
 
 1. Explore hooks in the src/hooks directory
 2. Every hook comes with JSDoc comments, providing clear explanations of       
-   parameters, return values, and usage.
-3. Each hook has usage example, demonstrating its implementation and benefits.
+   parameters, return values, and usage
+3. Each hook has usage example, demonstrating its implementation and benefits
 4. Check out examples directory or run `npm run examples` to see the their usage
 5. Fully written in TypeScript
 

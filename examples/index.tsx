@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import UseFormExample from './useFormExample';
 import UseLocalStorageExample from './useLocalStorageExample';
 import UseThemeExample from './useThemeExample';
+import UseClipboardExample from './useClipBoardExample';
 
 const App: React.FC = () => {
   return (
@@ -12,6 +13,7 @@ const App: React.FC = () => {
       <UseFormExample />
       <UseLocalStorageExample />
       <UseThemeExample />
+      <UseClipboardExample />
     </div>
   );
 };

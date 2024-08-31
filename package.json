@@ -1,0 +1,27 @@
+{
+  "name": "react-hooks-library",
+  "version": "1.0.0",
+  "description": "A collection of useful React hooks",
+  "scripts": {
+  "dev": "vite",
+  "build": "tsc && vite build",
+  "preview": "vite preview",
+  "examples": "vite --config vite.config.ts"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^3.0.0",
+    "typescript": "^4.9.0",
+    "vite": "^4.0.0"
+  }
+}
